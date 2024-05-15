@@ -1,1 +1,4 @@
 msg: Good morning...
+
+server:
+  port: 9097
