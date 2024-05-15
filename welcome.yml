@@ -2,3 +2,23 @@ msg: welcome to Home...
 
 server:
   port: 9097
+
+
+
+
+spring:
+  datasource:
+    username: root
+    password: mahadev7041
+    url: jdbc:mysql://localhost:3306/sbms
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    
+    
+      
+   
+   
